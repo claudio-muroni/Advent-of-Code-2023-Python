@@ -1,9 +1,3 @@
-def check_part_number(num, schematic):
-
-    return False
-
-
-
 with open('Input_03_1.txt') as f:
     schematic = f.read().splitlines()
 
