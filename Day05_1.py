@@ -1,3 +1,4 @@
+# it is not sustainable to save each mapping combination in a dict
 
 n_line = 1
 seed_map = {}
